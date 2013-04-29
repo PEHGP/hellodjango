@@ -1,0 +1,4 @@
+hellodjango
+===========
+
+money
